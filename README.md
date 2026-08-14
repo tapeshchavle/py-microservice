@@ -1,4 +1,4 @@
-# FastAPI Microservice Architecture
+ # FastAPI Microservice Architecture
 
 This microservice is built using Python's **FastAPI** framework and structured to match industry standards, highly resembling enterprise patterns found in frameworks like Spring Boot (Java) or NestJS (Node).
 
